@@ -1,0 +1,2 @@
+# schoolAdministrationApp
+ Internship Technical Evaluation
